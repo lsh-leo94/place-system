@@ -1,5 +1,5 @@
 ### Note
-Data is mocked under mockData.js
+Data is mocked under mockPlaces.js
 
 ## Available Scripts
 
