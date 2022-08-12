@@ -2,8 +2,10 @@
 Data is mocked under mockPlaces.js
 
 ## Available Scripts
-
 In the project directory, you can run:
+
+### `yarn`
+To install the required package and next step you may run "yarn start"
 
 ### `yarn start`
 
