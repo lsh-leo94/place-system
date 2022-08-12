@@ -1,0 +1,1 @@
+export const GOOGLE_AUTOCOMPLETE_BASEURL = 'http://maps.googleapis.com/maps/api/';

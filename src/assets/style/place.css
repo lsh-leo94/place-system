@@ -1,0 +1,13 @@
+.select-filterby{
+  display: inline-block;
+  width: 30%;
+}
+
+.filter-input{
+  display: inline-block;
+  width: 70%;;
+}
+
+.form-row{
+  margin: 10px 0;
+}
